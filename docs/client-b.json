@@ -1,0 +1,16 @@
+{
+  "client_id": "https://chingyangtseng-houzz.github.io/demo-mcp-server/client-b.json",
+  "client_name": "Houzz MCP Demo Client B",
+  "application_type": "native",
+  "redirect_uris": [
+    "http://127.0.0.1:6276/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
