@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "pkjwt-test-20261016",
+      "n": "yX0a7FQwfeIPWXrBgtH716JBuMBUh8AmDUtmTjz9qZXvLu8iLVTyx9ejYLtacE-SqxCAweX3ecTIN9vYuEyuP7AyRxMM12p9sRxRKXkr1fswDJ_AuJNqXvOUvDKBh1_ShTh_ri5DtXcvjf7OODK6TbTvV4Z7-uQycJbaMBRMpZ_lh9nicYoWaodomSAx5gRjUuCutSvCBw_k5hq0nkgLhDiY0SemZ6iUmMFRircBuJ0LKJG3VJlm6pQqn6zDLL1BEpw9JW1aLWo6nVg0sSlvcaleSU9JXnqBFTOb-6mTq44Rt5xEtbo9SivOyCW0olOso6QloS_Esn9m_iXM9YftgQ",
+      "e": "AQAB"
+    }
+  ]
+}
